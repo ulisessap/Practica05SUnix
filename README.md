@@ -12,3 +12,17 @@ La mayoría de las distribuciones de Linux vienen con un kernel precompilado que
 - Compatibilidad de hardware: Algunos controladores específicos de hardware pueden no estar incluidos en el kernel predeterminado y deben ser activados manualmente.
 - Actualización a una versión más reciente: Puedes compilar una versión más nueva del kernel para aprovechar las últimas mejoras y correcciones de seguridad.
 - Personalización avanzada: Puedes habilitar funciones experimentales o específicas que no están disponibles en los kernels precompilados.
+
+# Intrucciones
+Tenemos que verificar que nuestra maquina tenga al menos 30 GB de almacenamiento, para que no haya ningun problema 
+
+Checamos la version del kernel 
+
+![image](https://github.com/user-attachments/assets/5c437c68-35b0-4274-8e4c-1f42bcfc3aef)
+
+
+Luego instalamos las dependencias necesarias para compilar el kernel 
+
+![image](https://github.com/user-attachments/assets/923651b8-926f-40aa-acb7-3566b30efa16)
+
+
