@@ -24,4 +24,13 @@ Luego instalamos las dependencias necesarias para compilar el kernel
 
 ![image](https://github.com/user-attachments/assets/923651b8-926f-40aa-acb7-3566b30efa16)
 
+Descargamos el codigo fuente de debian 12 del kernel usando wget 
+
+![image](https://github.com/user-attachments/assets/b871c04a-0f77-4072-ac9e-76cf4fba7324)
+
+Ahora lo extraemos 
+
+
+
+
 
