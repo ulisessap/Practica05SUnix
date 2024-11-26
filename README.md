@@ -32,6 +32,14 @@ Ahora lo extraemos
 
 ![image](https://github.com/user-attachments/assets/9dd8f9bb-21b4-4343-985f-294835d37f0b)
 
+Luego iniciamos con la configuracion del nuevo kernel 
+
+![image](https://github.com/user-attachments/assets/33f0cfb2-4754-43df-a751-3e0d92aeb631)
+
+
+![image](https://github.com/user-attachments/assets/b01a0ccf-395d-46bc-b308-5eea1c46e81e)
+
+
 
 
 
