@@ -18,8 +18,7 @@ Tenemos que verificar que nuestra maquina tenga al menos 30 GB de almacenamiento
 
 Checamos la version del kernel 
 
-![image](https://github.com/user-attachments/assets/5c437c68-35b0-4274-8e4c-1f42bcfc3aef)
-
+![image](https://github.com/user-attachments/assets/d751bc37-e0e3-4ee7-a603-fd9f2556e93c)
 
 Luego instalamos las dependencias necesarias para compilar el kernel 
 
