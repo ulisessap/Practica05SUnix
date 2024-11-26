@@ -39,6 +39,13 @@ Luego iniciamos con la configuracion del nuevo kernel
 
 ![image](https://github.com/user-attachments/assets/b01a0ccf-395d-46bc-b308-5eea1c46e81e)
 
+Seleccionamos Load
+
+![image](https://github.com/user-attachments/assets/4117e24d-065a-4992-a810-06d0c9fcb3dc)
+
+
+
+
 
 
 
