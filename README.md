@@ -30,6 +30,9 @@ Descargamos el codigo fuente de debian 12 del kernel usando wget
 
 Ahora lo extraemos 
 
+![image](https://github.com/user-attachments/assets/9dd8f9bb-21b4-4343-985f-294835d37f0b)
+
+
 
 
 
