@@ -43,6 +43,26 @@ Seleccionamos Load
 
 ![image](https://github.com/user-attachments/assets/4117e24d-065a-4992-a810-06d0c9fcb3dc)
 
+Vamos a virtualizacion
+
+![image](https://github.com/user-attachments/assets/c5f99faf-e77e-49be-9545-89f688258520)
+
+![image](https://github.com/user-attachments/assets/6fb8fbd8-0853-4688-ad62-d39b11d9133b)
+
+![image](https://github.com/user-attachments/assets/44559cbc-003e-4ab0-ac96-5dac10030a9c)
+
+Ahora usamos el siguiente comando 
+make -j$(nproc): Compila el kernel utilizando todos los núcleos de CPU disponibles. $(nproc) obtiene automáticamente el número de núcleos en el sistema para acelerar el proceso.
+
+![image](https://github.com/user-attachments/assets/d2a05150-be72-4237-84c7-f12cca76c8d5)
+
+
+
+
+
+
+
+
 
 
 
