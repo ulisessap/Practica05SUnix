@@ -56,6 +56,8 @@ make -j$(nproc): Compila el kernel utilizando todos los núcleos de CPU disponib
 
 ![image](https://github.com/user-attachments/assets/d2a05150-be72-4237-84c7-f12cca76c8d5)
 
+Esto tardo bastante, pero al final me marco un error y no encontre como solucionarlo :(
+
 ![image](https://github.com/user-attachments/assets/a044ce24-4df0-406a-bbfa-39397ef17fc5)
 
 
